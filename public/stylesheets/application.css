@@ -1,0 +1,19 @@
+body {
+background-color: beige
+}
+
+p {
+color: blueviolet;
+font-size: 30px;
+}
+
+/* #grogu {} */
+
+.smaller {
+font-size: 15px;
+
+}
+
+.header {
+  font-size: 45px;
+  }
